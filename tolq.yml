@@ -6,4 +6,6 @@ files:
       - language: fr
         target_file: fr_1.yml
         quality: translation
-
+      - language: es
+        target_file: es_1.yml
+        quality: translation
