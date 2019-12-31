@@ -5,7 +5,7 @@ files:
     target_languages:
       - language: fr
         target_file: fr_1.yml
-        quality: translation
+        quality: localization
       - language: es
         target_file: es_1.yml
         quality: translation
